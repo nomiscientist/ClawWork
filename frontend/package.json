@@ -4,8 +4,8 @@
   "description": "LiveBench Frontend - Real-time AI agent monitoring",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
+    "dev": "node init && vite",
+    "build": "node init && vite build",
     "preview": "vite preview"
   },
   "dependencies": {

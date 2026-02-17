@@ -41,12 +41,9 @@ env/
 .venv
 
 # Environment variables
-.env
-.env.local
 !.env.example
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -82,3 +79,4 @@ clawmode_legacy/
 
 # External dependencies (installed separately)
 nanobot/
+config.bat
